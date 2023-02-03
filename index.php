@@ -1,8 +1,8 @@
 <?php
 
-use Bleus\TroisiemeClasse;
-use Bleus\UneClasse;
-use Verts\UneClasse as VertsUneClasse;
+use App\Bleus\TroisiemeClasse;
+use App\Bleus\UneClasse;
+use App\Verts\UneClasse as VertsUneClasse;
 
 // require './lib1/classe1.php';
 // require './lib2/classe1.php';
@@ -21,7 +21,7 @@ use Verts\UneClasse as VertsUneClasse;
 
 // Autoloader
 
-require './autoload.php';
+require './vendor/autoload.php';
 
 
 $obj = new UneClasse();

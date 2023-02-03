@@ -1,6 +1,6 @@
 <?php
 
-namespace Verts;
+namespace App\Verts;
 
 class UneClasse
 {

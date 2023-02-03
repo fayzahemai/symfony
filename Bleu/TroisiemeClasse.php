@@ -1,6 +1,6 @@
 <?php
 
-namespace Bleus;
+namespace App\Bleus;
 
 class TroisiemeClasse
 {

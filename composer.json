@@ -1,15 +1,8 @@
 {
-    "name": "fayzahemai/symfony",
     "autoload": {
         "psr-4": {
-            "Fayzahemai\\Symfony\\": "src/"
+            "App\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "fayza hemai",
-            "email": "fayza.hemai@gmail.com"
-        }
-    ],
     "require": {}
 }

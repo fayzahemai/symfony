@@ -1,6 +1,6 @@
 <?php
 
-namespace UneNamespace;
+namespace App\UneNamespace;
 
 // Nom de la classe ; UneClasse
 
